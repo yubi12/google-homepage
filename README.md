@@ -1,2 +1,2 @@
 # google-homepage
-First project
+First project. Recreation of googles homepage using HTML and CSS (non functional).

@@ -1,0 +1,76 @@
+.left {
+  position: relative;
+  bottom: -340px;
+  left: 10px;
+}
+
+.header {
+  position: fixed;
+  text-align: right;
+  margin: auto;
+  right: 30px;
+}
+
+.logo {
+  position: relative;
+  top: 250px;
+  height: 92px;
+  width: 272px;
+}
+
+.notifications {
+  height: 30px;
+  width: 30px;
+}
+
+.user {
+  height: 35px;
+  width: 35px;
+}
+
+.apps {
+  height: 30px;
+  width: 30px;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: -310px;
+  left: 0;
+  padding: .8rem;
+  background-color: #efefef;
+  text-align: left;
+}
+
+/* Links on bottom right */
+.right {
+  position: absolute;
+  right: 30px;
+  bottom: 12px;
+}
+
+.search {
+  position: relative;
+  text-align: center;
+  bottom: -265px;
+}
+.search-box {
+  width: 664px;
+  height: 34px;
+}
+
+.search-button {
+  padding: 12px 12px;
+  background-color: #efefef;
+  border-radius: 3px;
+  border: 3px solid #efefef;
+  color: #757575;
+  font-family: arial;
+}
+
+.buttons {
+  position: relative;
+  text-align: center;
+  bottom: -280px;
+}
